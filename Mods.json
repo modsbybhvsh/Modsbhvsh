@@ -1,5 +1,5 @@
 {
-  "showAnnouncement": true,
+  "showAnnouncement": false,
   "announcementText": "⚠️Update Available! With Better Features⚠️",
 
   "showContactButton": true,
